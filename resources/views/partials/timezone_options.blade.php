@@ -39,6 +39,7 @@
 <option value="Asia/Jakarta" @if ($current_timezone == 'Asia/Jakarta')selected="selected"@endif>(GMT+07:00) Western Indonesian Time (Jakarta)</option>
 <option value="Asia/Bangkok" @if ($current_timezone == 'Asia/Bangkok')selected="selected"@endif>(GMT+07:00) Thailand (Bangkok)</option>
 <option value="Asia/Hong_Kong" @if ($current_timezone == 'Asia/Hong_Kong')selected="selected"@endif>(GMT+08:00) Hong Kong</option>
+<option value="Asia/Taipei" @if ($current_timezone == 'Asia/Taipei')selected="selected"@endif>(GMT+08:00) Taipei</option>
 <option value="Asia/Singapore" @if ($current_timezone == 'Asia/Singapore')selected="selected"@endif>(GMT+08:00) Singapore</option>
 <option value="Australia/West" @if ($current_timezone == 'Australia/West')selected="selected"@endif>(GMT+08:00) Australian Western Time</option>
 <option value="Asia/Tokyo" @if ($current_timezone == 'Asia/Tokyo')selected="selected"@endif>(GMT+09:00) Tokyo</option>
